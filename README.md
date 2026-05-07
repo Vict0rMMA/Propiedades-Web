@@ -211,3 +211,5 @@ En despliegue (servidor o CI) suele usarse `npm run prisma:deploy` con `DATABASE
 ## Licencia
 
 ISC — ver `package.json`.
+#   P R O P I E D A D E S -  
+ 
